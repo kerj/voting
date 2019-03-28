@@ -1,0 +1,13 @@
+#vote {
+  display: none;
+}
+
+#under-18 {
+  display: none;
+}
+
+.container {
+  margin-top: 25vw;
+  max-width: 550px;
+  background-color: lightblue;
+}
